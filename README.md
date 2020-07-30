@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaynnan/]
 
-- 💬 Ask me about **React, C#, C++, JavaScript, NodeJS, MySQL**
+- 💬 Ask me about **React, C#, C++, CSS, JavaScript, NodeJS, MySQL**
 
 - 📫 How to reach me **kaynnanx1@gmail.com**
 
@@ -15,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/></p><p align="center"></p>
