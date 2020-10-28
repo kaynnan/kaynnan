@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaynnan/]
 
-- 💬 Ask me about **React, C#, C++, CSS, JavaScript, NodeJS, MySQL**
+- 💬 Ask me about **React, C#, CSS, JavaScript, NodeJS, MySQL**
 
 - 📫 How to reach me **kaynnanx1@gmail.com**
 
