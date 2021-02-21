@@ -1,10 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Kaynnan Lemes</h1>
 <h3 align="center">A Mobile Developer and UI/UX Design</h3>
 
-- 🔭 I’m currently working on []
-
-- 👨‍💻 All of my projects are available at [https://github.com/kaynnan/]
-
 - 💬 Ask me about **React, C#, CSS, JavaScript, NodeJS, MySQL**
 
 - 📫 How to reach me **kaynnanx1@gmail.com**
