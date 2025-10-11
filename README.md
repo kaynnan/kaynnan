@@ -30,7 +30,7 @@ I am an <strong>Information Systems graduate</strong> and a specialized <strong>
 <ul>
   <li><strong>Current Role:</strong> Actively working as an <strong>Odoo Developer</strong> at <strong>Escodoo</strong>, focusing on implementing and customizing core ERP modules.</li>
   <li><strong>Web Development:</strong> Strong proficiency in full-stack web environments, including <strong>PHP</strong>, JavaScript, and database integration.</li>
-  <li><strong>Robotics & Education:</strong> Experience as a technical instructor, teaching concepts of **Robotics** and **IoT** development.</li>
+  <li><strong>Robotics & Education:</strong> Experience as a technical instructor, teaching concepts of <strong>Robotics</strong> and <strong>IoT</strong> development.</li>
   <li><strong>Full-Stack Proficiency:</strong> Architecting and deploying applications with strong skills in C#, JavaScript, Node.js, and modern relational databases.</li>
 </ul>
 
