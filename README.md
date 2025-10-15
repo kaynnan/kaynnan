@@ -52,9 +52,3 @@ I'm a passionate **Odoo Developer** at **Escodoo** and a versatile **Full-Stack 
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaynnan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynnan&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=0077B5" height="150" alt="Top Languages"/>
-</div>
