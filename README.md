@@ -42,10 +42,9 @@ Software development and licensing company founded and led by me, focused on ERP
 | **Role** | Founder · Managing Partner (*Sócio-Administrador*) |
 | **CNPJ** | 64.001.620/0001-28 |
 | **Activity** | Development and licensing of non-customizable computer programs (CNAE 6203-1/00) |
-| **Headquarters** | Av. Cristóvão Colombo, 2144 — Sala 408, Floresta, Porto Alegre/RS, 90560-001 |
 | **Founded** | December 10, 2025 |
 | **Status** | Active |
-| **Contact** | kaynnanx1@gmail.com · (34) 9997-0763 |
+| **Contact** | kaynnanx1@gmail.com · +55 (34) 9997-0763 |
 
 ---
 
