@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Kaynnan Lemes 👋
+# Kaynnan Bardauil Lemes
 
-### Odoo Developer & Full-Stack Specialist | Information Systems Graduate
+### Founder @ Ark Solutions · Odoo Developer @ Escodoo & TIS · Full-Stack Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/kaynnanbardauil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -18,22 +18,49 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **Odoo Developer** currently working at [**Escodoo**](https://escodoo.com.br) and [**TIS**](https://tis.ao), delivering ERP implementations, customizations and integrations for clients across Brazil and Angola. Information Systems graduate with a Full-Stack background spanning **PHP, C#, Node.js and React**, plus hands-on experience teaching **Robotics and IoT** with Arduino and C/C++.
+Information Systems graduate, software engineer and entrepreneur focused on **ERP development, business automation and Full-Stack engineering**. I design, implement and customize Odoo solutions for clients in Brazil and Angola, and lead my own software company delivering tailored business systems.
 
-- 🏢 Working at **Escodoo** (Brazil) and **TIS** (Angola) on Odoo projects.
-- 🔭 Specializing in **Odoo Implementation, Customization & OCA module development**.
-- 🌱 Currently leveling up on **Odoo performance tuning**, **Docker** and **Cloud Native** workflows.
-- 🚀 I enjoy shipping reliable backends, clean ERP modules and pragmatic frontends.
-- 🤖 Background in **Robotics instruction** and **IoT prototyping**.
-- 📫 Reach me at **kaynnanx1@gmail.com**.
+- 🏢 **Founder & Managing Partner** at Ark Solutions.
+- 💼 **Odoo Developer** at [Escodoo](https://escodoo.com.br) (Brazil) and [TIS](https://tis.ao) (Angola).
+- 🎓 **Information Systems** graduate.
+- 🤖 Background as **Robotics & IoT Instructor** (Arduino, C/C++).
+- 🌱 Currently sharpening **Odoo performance tuning**, **Docker** and **Cloud Native** skills.
+- 📫 Contact: **kaynnanx1@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Ark Solutions
 
-#### Core Languages
+> **Nexus Solutions Licenciamento de Softwares LTDA** — *fantasy name:* **Ark Solutions**
+
+Software development and licensing company founded and led by me, focused on ERP solutions, custom business software and digital transformation projects.
+
+| Field | Detail |
+|---|---|
+| **Role** | Founder · Managing Partner (*Sócio-Administrador*) |
+| **CNPJ** | 64.001.620/0001-28 |
+| **Activity** | Development and licensing of non-customizable computer programs (CNAE 6203-1/00) |
+| **Headquarters** | Av. Cristóvão Colombo, 2144 — Sala 408, Floresta, Porto Alegre/RS, 90560-001 |
+| **Founded** | December 10, 2025 |
+| **Status** | Active |
+| **Contact** | kaynnanx1@gmail.com · (34) 9997-0763 |
+
+---
+
+## 💼 Professional Experience
+
+- **Founder · Ark Solutions** — Leading software development, licensing and ERP delivery.
+- **Odoo Developer · Escodoo** *(Brazil)* — Implementation, customization and OCA module development.
+- **Odoo Developer · TIS** *(Angola)* — ERP rollouts and integrations for Angolan market.
+- **Robotics & IoT Instructor** — Educational programs with Arduino and embedded C/C++.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -44,23 +71,31 @@ I'm an **Odoo Developer** currently working at [**Escodoo**](https://escodoo.com
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### ERP, Backend & Databases
+### ERP & Backend
 <p>
   <img src="https://img.shields.io/badge/Odoo-7C3FE4?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</p>
+
+### Databases
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-#### Frontend & Embedded
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</p>
+
+### Embedded & IoT
+<p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/IoT-009688?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
 </p>
 
-#### Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -71,7 +106,7 @@ I'm an **Odoo Developer** currently working at [**Escodoo**](https://escodoo.com
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaynnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -84,6 +119,14 @@ I'm an **Odoo Developer** currently working at [**Escodoo**](https://escodoo.com
 
 ---
 
+## 📬 Get in Touch
+
+<p>
+  <a href="mailto:kaynnanx1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/kaynnanbardauil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/kaynnan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
 <div align="center">
-  <i>“Build it simple. Ship it. Iterate.”</i>
+  <sub>Open to ERP projects, Odoo consulting and software partnerships.</sub>
 </div>
