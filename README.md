@@ -8,9 +8,9 @@
 
 `Odoo` · `Python` · `ERP Implementation` · `Integrations` · `Open Source`
 
-Building ERP solutions that connect **software, business processes and real operational needs**.
+Building ERP solutions that connect **software engineering, business processes and real operational needs**.
 
-[LinkedIn](https://www.linkedin.com/in/kaynnanbardauil) · [Email](mailto:kaynnanx1@gmail.com) · [GitHub](https://github.com/kaynnan)
+[LinkedIn](https://www.linkedin.com/in/kaynnanbardauil) · [Email](mailto:kaynnanx1@gmail.com)
 
 </div>
 
@@ -30,7 +30,7 @@ Status      : Open to international opportunities
 
 ## `$ ./about`
 
-I design and implement **Odoo ERP solutions** for businesses with complex operational requirements.
+I design, implement and customize **Odoo ERP solutions** for businesses with complex operational requirements.
 
 My work covers the ERP lifecycle — from understanding business requirements and designing technical solutions to developing custom modules, integrating external services, automating workflows and supporting ERP implementations.
 
@@ -56,7 +56,7 @@ specialization:
 
 [CURRENT]     Odoo Developer
               Escodoo — Brazil
-              Odoo Implementation · Customization · OCA
+              Implementation · Customization · OCA Development
 
 [CURRENT]     Odoo Developer
               TIS — Angola
@@ -66,57 +66,129 @@ specialization:
               Arduino · Embedded Systems · IoT
 ```
 
-My professional experience includes ERP projects across **Brazil and Angola**, working with different business processes, localization requirements and operational environments.
+Professional experience across **Brazil and Angola**, working with ERP implementations, localization requirements, integrations and complex business processes.
 
-## `$ ls ./stack`
+## `$ tree ./stack`
 
 ```text
-erp/
-├── Odoo 15 → 18
-├── OCA
-├── Custom Modules
-├── ERP Implementation
-├── Migration
-└── Localization
-
-backend/
-├── Python
-├── PostgreSQL
-├── REST APIs
-└── External Integrations
-
-odoo-web/
-├── XML
-├── OWL
-└── JavaScript
-
-infrastructure/
-├── Docker
-├── Linux
-└── Git
+stack/
+├── erp/
+│   ├── Odoo 15 → 18
+│   ├── OCA
+│   ├── Custom Modules
+│   ├── ERP Implementation
+│   ├── Migration
+│   └── Localization
+│
+├── backend/
+│   ├── Python
+│   ├── PostgreSQL
+│   ├── REST APIs
+│   └── External Integrations
+│
+├── odoo-web/
+│   ├── XML
+│   ├── OWL
+│   └── JavaScript
+│
+└── infrastructure/
+    ├── Docker
+    ├── Linux
+    └── Git
 ```
 
-## `$ git log --open-source`
+## `$ git log --author="kaynnan" --open-source`
 
-I contribute to the **Odoo open-source ecosystem**, including OCA projects and module migrations.
+I actively contribute to the **Odoo Community Association (OCA)** ecosystem across accounting, Brazilian localization, sales, purchasing, repair, helpdesk and other business domains.
 
-Open source is an important part of how I work: learning from production-grade implementations, collaborating with other developers and contributing improvements back to the community.
+### Selected OCA Contributions
 
-```console
-kaynnan@github:~/oca$ git status
+```text
+OCA/l10n-brazil
+├── [FIX] Alphanumeric CNPJ support / dependency handling
+├── [ADD] DUIMP localization module
+├── [IMP] CNAB 240 banking structures
+├── [IMP] Itaú CNAB 240 support
+├── [ADD] Brazilian fleet localization
+├── [MIG] Brazilian POS localization
+└── [FIX] Fiscal, sales and stock workflows
 
-On branch continuous-learning
-Odoo knowledge       ███████████████████░
-Python                ██████████████████░░
-ERP / Business        █████████████████░░░
-Coffee                ████████████████████
+OCA/repair
+├── [ADD] repair_analytic
+├── [ADD] repair_analytic_timesheet
+└── [FIX] Analytic timesheet accounting date & UoM
+
+OCA/sale-workflow
+├── [ADD] sale_blanket_order_advanced
+└── [FIX] Blanket order quantity computation
+
+OCA/account-invoicing
+└── [ADD] account_invoice_advance_compensation
+
+OCA/account-closing
+└── [ADD] account_fiscal_year_closing_range
+
+OCA/account-analytic
+├── [ADD] purchase_blanket_order_analytic
+└── [ADD] purchase_request_analytic_tag
+
+OCA/helpdesk
+├── [IMP] Project stage synchronization
+└── [FIX] Project domain enforcement
+
+OCA/project
+└── [ADD] project_state_extend
 ```
+
+### Highlighted Pull Requests
+
+**Brazilian localization & banking**
+
+* [OCA/l10n-brazil #5009](https://github.com/OCA/l10n-brazil/pull/5009) — Fix alphanumeric CNPJ dependency handling
+* [OCA/l10n-brazil #4833](https://github.com/OCA/l10n-brazil/pull/4833) — CNAB 240 tax payments, Sicoob and Santander improvements
+* [OCA/l10n-brazil #4813](https://github.com/OCA/l10n-brazil/pull/4813) — Itaú CNAB 240 support
+* [OCA/l10n-brazil #4655](https://github.com/OCA/l10n-brazil/pull/4655) — DUIMP localization module
+
+**ERP modules & business workflows**
+
+* [OCA/repair #175](https://github.com/OCA/repair/pull/175) — Repair analytic timesheet module
+* [OCA/repair #180](https://github.com/OCA/repair/pull/180) — Analytic accounting fix for repair timesheets
+* [OCA/account-payment #936](https://github.com/OCA/account-payment/pull/936) — Payment term installment module
+* [OCA/account-closing #354](https://github.com/OCA/account-closing/pull/354) — Fiscal year closing by range
+* [OCA/project #1586](https://github.com/OCA/project/pull/1586) — Extended project states
+* [OCA/helpdesk #912](https://github.com/OCA/helpdesk/pull/912) — Helpdesk/project stage synchronization
+
+**Odoo 18**
+
+* [OCA/sale-promotion #358](https://github.com/OCA/sale-promotion/pull/358) — Module migration to Odoo 18
+* [OCA/sale-promotion #359](https://github.com/OCA/sale-promotion/pull/359) — Loyalty incompatibility bug fix
+* [OCA/l10n-brazil #4642](https://github.com/OCA/l10n-brazil/pull/4642) — Brazilian blanket order migration
+
+````
+
+## `$ ./open-source --summary`
+
+```text
+Contributing across:
+
+> Accounting & Finance
+> Brazilian Localization
+> CNAB / Banking
+> Sales & Purchasing
+> Repair & Analytic Accounting
+> Helpdesk & Projects
+> Fleet
+> ERP Migrations
+> Business Workflow Automation
+````
+
+My open-source work includes **new modules, bug fixes, migrations and improvements to existing OCA projects**, with a strong focus on solving real ERP and accounting requirements.
 
 ## `$ ./ark-solutions --info`
 
 **Ark Solutions** is my software and ERP solutions company in Brazil.
 
-My work as Founder & Managing Partner extends beyond software development into:
+As Founder & Managing Partner, my responsibilities extend beyond development into:
 
 ```text
 > client discovery
@@ -158,6 +230,6 @@ Looking for:
 
 [LinkedIn](https://www.linkedin.com/in/kaynnanbardauil) · [Email](mailto:kaynnanx1@gmail.com)
 
-<sub>kaynnan@github:~$ █</sub>
+<sub>`kaynnan@github:~$ █`</sub>
 
 </div>
