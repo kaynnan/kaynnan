@@ -1,84 +1,163 @@
 <div align="center">
 
-# Kaynnan Bardauil Lemes
+# `kaynnan@github:~$ whoami`
 
-**Software Engineer · Odoo Developer · Founder of Ark Solutions**
+### Kaynnan Bardauil Lemes
 
-Information Systems graduate building ERP, business automation and full-stack solutions for clients in Brazil and Angola.
+**Software Engineer · Odoo Developer · ERP Consultant**
 
-<p>
-  <a href="https://www.linkedin.com/in/kaynnanbardauil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kaynnanx1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/kaynnan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+`Odoo` · `Python` · `ERP Implementation` · `Integrations` · `Open Source`
+
+Building ERP solutions that connect **software, business processes and real operational needs**.
+
+[LinkedIn](https://www.linkedin.com/in/kaynnanbardauil) · [Email](mailto:kaynnanx1@gmail.com) · [GitHub](https://github.com/kaynnan)
 
 </div>
 
 ---
 
-## Profile
+```console
+kaynnan@github:~$ cat profile.txt
 
-I design, implement and customize **Odoo ERP** solutions, lead my own software company and contribute to open-source modules. My background spans backend engineering, full-stack web development, embedded systems and technical education.
+Name        : Kaynnan Bardauil Lemes
+Role        : Software Engineer / Odoo ERP Consultant
+Focus       : Odoo · ERP · Python · Business Automation
+Experience  : Brazil 🇧🇷 · Angola 🇦🇴
+Open Source : Odoo Community Association (OCA)
+Company     : Founder & Managing Partner @ Ark Solutions
+Status      : Open to international opportunities
+```
 
-- Founder & Managing Partner at **Ark Solutions** *(Nexus Solutions Licenciamento de Softwares LTDA)*
-- Odoo Developer at **[Escodoo](https://escodoo.com.br)** — Brazil
-- Odoo Developer at **[TIS](https://tis.ao)** — Angola
-- Available for international ERP consulting, Odoo customization and software partnerships
+## `$ ./about`
 
----
+I design and implement **Odoo ERP solutions** for businesses with complex operational requirements.
 
-## Experience
+My work covers the ERP lifecycle — from understanding business requirements and designing technical solutions to developing custom modules, integrating external services, automating workflows and supporting ERP implementations.
 
-**Founder · Ark Solutions** — *2025 – Present*
-Software development and licensing company. Focus on ERP delivery, custom business systems and digital transformation projects.
+I work at the intersection of **software engineering and business processes**, translating operational requirements into practical and scalable solutions.
 
-**Odoo Developer · Escodoo** — *Brazil*
-Implementation, customization and OCA module development for Brazilian clients. Active contributor to the Odoo Community Association ecosystem.
+```yaml
+specialization:
+  - Odoo ERP implementation
+  - Custom module development
+  - Python backend engineering
+  - Business process automation
+  - REST API & third-party integrations
+  - ERP migrations & localization
+  - Technical & functional consulting
+```
 
-**Odoo Developer · TIS** *(tis.ao)* — *Angola*
-ERP rollouts, integrations and localization for the Angolan market.
+## `$ cat experience.log`
 
-**Robotics & IoT Instructor** — *Education*
-Designed and taught hands-on programs in Arduino, embedded C/C++ and IoT prototyping.
+```text
+[2025 → NOW]  Founder & Managing Partner
+              Ark Solutions
+              ERP · Software Development · Business Automation
 
----
+[CURRENT]     Odoo Developer
+              Escodoo — Brazil
+              Odoo Implementation · Customization · OCA
 
-## Technical Skills
+[CURRENT]     Odoo Developer
+              TIS — Angola
+              ERP Rollouts · Integrations · Localization
 
-| Area | Technologies |
-|---|---|
-| **ERP** | Odoo (v15 – v18), OCA modules, custom development, migrations |
-| **Languages** | Python, JavaScript, PHP, C#, C/C++ |
-| **Backend** | Node.js, Express, REST APIs |
-| **Frontend** | React, HTML5, CSS3 |
-| **Databases** | PostgreSQL, MySQL |
-| **DevOps** | Docker, Git, Linux |
-| **Embedded** | Arduino, IoT prototyping |
+[PREVIOUS]    Robotics & IoT Instructor
+              Arduino · Embedded Systems · IoT
+```
 
----
+My professional experience includes ERP projects across **Brazil and Angola**, working with different business processes, localization requirements and operational environments.
 
-## Company
+## `$ ls ./stack`
 
-**Ark Solutions** — *Nexus Solutions Licenciamento de Softwares LTDA*
-Software development and licensing company headquartered in Brazil, founded and led by me.
+```text
+erp/
+├── Odoo 15 → 18
+├── OCA
+├── Custom Modules
+├── ERP Implementation
+├── Migration
+└── Localization
 
-- **Role:** Founder · Managing Partner
-- **CNPJ:** 64.001.620/0001-28
-- **Activity:** Software development and licensing (CNAE 6203-1/00)
-- **Founded:** December 2025
-- **Contact:** kaynnanx1@gmail.com · +55 (34) 9997-0763
+backend/
+├── Python
+├── PostgreSQL
+├── REST APIs
+└── External Integrations
 
----
+odoo-web/
+├── XML
+├── OWL
+└── JavaScript
 
-## GitHub Activity
+infrastructure/
+├── Docker
+├── Linux
+└── Git
+```
+
+## `$ git log --open-source`
+
+I contribute to the **Odoo open-source ecosystem**, including OCA projects and module migrations.
+
+Open source is an important part of how I work: learning from production-grade implementations, collaborating with other developers and contributing improvements back to the community.
+
+```console
+kaynnan@github:~/oca$ git status
+
+On branch continuous-learning
+Odoo knowledge       ███████████████████░
+Python                ██████████████████░░
+ERP / Business        █████████████████░░░
+Coffee                ████████████████████
+```
+
+## `$ ./ark-solutions --info`
+
+**Ark Solutions** is my software and ERP solutions company in Brazil.
+
+My work as Founder & Managing Partner extends beyond software development into:
+
+```text
+> client discovery
+> requirements analysis
+> solution architecture
+> project scoping
+> ERP implementation
+> solution demonstrations
+> B2B technology consulting
+```
+
+This experience allows me to approach ERP projects from both the **technical and business perspectives**.
+
+## `$ github --stats`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaynnan&show_icons=true&theme=default&hide_border=true&count_private=true&hide=issues" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynnan&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaynnan&show_icons=true&hide_border=true&count_private=true&hide=issues" alt="Kaynnan's GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaynnan&layout=compact&hide_border=true&langs_count=6" alt="Most used languages">
+
 </div>
 
----
+## `$ ./contact --international`
+
+```text
+Looking for:
+  → Odoo Development
+  → ERP Consulting
+  → ERP Implementation
+  → Solution Engineering
+  → Technical Consulting
+  → International Software Projects
+```
 
 <div align="center">
-<sub>Open to international ERP and software engineering opportunities. <a href="mailto:kaynnanx1@gmail.com">Get in touch →</a></sub>
+
+**Open to international Odoo, ERP and Software Engineering opportunities.**
+
+[LinkedIn](https://www.linkedin.com/in/kaynnanbardauil) · [Email](mailto:kaynnanx1@gmail.com)
+
+<sub>kaynnan@github:~$ █</sub>
+
 </div>
