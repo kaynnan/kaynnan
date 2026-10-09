@@ -135,15 +135,11 @@ Added range-based fiscal year closing functionality for more flexible accounting
 ## `$ cat ~/work.log`
 
 ```text
-NOW   Ark Solutions
-      Founder & Managing Partner
-      ERP · Software Engineering · Business Solutions
+NOW   TIS / Angola
+      Odoo Development · Localization · Integrations
 
       Escodoo / Brazil
       Odoo Development · Implementation · OCA
-
-      TIS / Angola
-      Odoo Development · Localization · Integrations
 ```
 
 Beyond development, I work directly with stakeholders on **requirements analysis, solution design, technical decisions and ERP implementation**.
